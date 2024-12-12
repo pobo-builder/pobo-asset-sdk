@@ -23,6 +23,12 @@ Pobo Asset SDK contains a set of components designed specifically for B2B e-comm
 
 ## 🚀 Quick Start
 
+### Clone the repository
+```bash
+git clone git@github.com:pobo-builder/pobo-asset-sdk.git
+cd pobo-asset-sdk
+```
+
 ### Installation
 ```bash
 yarn install
