@@ -1,0 +1,9 @@
+node_modules
+dist
+.parcel-cache
+.DS_Store
+*.log
+.idea
+.DS_Store
+.husky
+dev
